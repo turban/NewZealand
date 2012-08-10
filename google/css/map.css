@@ -1,2 +1,15 @@
-html, body, #map { height: 100% }
-body { margin: 0; padding: 0 }
+html, body, #map { 
+  height: 100%; 
+  width: 100%;
+}
+
+body { 
+  margin: 0; 
+  padding: 0;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+h2 {
+	margin: 0 0 5px 0;
+}
